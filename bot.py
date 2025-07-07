@@ -1,5 +1,3 @@
-import telegram
-print("python-telegram-bot version:", telegram.__version__)
 import os
 import requests
 import base64
